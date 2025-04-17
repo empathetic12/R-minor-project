@@ -1,1 +1,1 @@
-# R-minor-projrct
+# R-minor-project
